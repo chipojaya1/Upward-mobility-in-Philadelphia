@@ -3,7 +3,7 @@
 * This includes the data file atlas_new.dta uploaded on BB
 
 * Change the working directory to this folder. It should read something like below except you will use your username in place of "ayyagari"*/
-cd \\apporto.com\dfs\GWU\Users\chipojaya_gwu\Desktop\HW2\
+cd Desktop\empricial2\
 
 * Set up a log file which will store all the commands and output of your work today*
 capture log close
